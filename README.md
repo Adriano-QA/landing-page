@@ -12,6 +12,6 @@ Página desenvolvida durante workshop da VSLAB.
 - CSS
 - Flexbox
 
-## Author
+## Autor
 
 - Frontend Mentor - [@adrianoaluizi](https://github.com/Aluizi-hub)
